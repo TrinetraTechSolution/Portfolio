@@ -1,4 +1,4 @@
-.h2 {
+.container h2 {
   color: #336699; /* Sets the text color to a shade of blue */
   font-family: 'Arial', sans-serif; /* Specifies the font family */
   font-size: 1.5em; /* Sets the font size relative to the parent element's font size */
@@ -10,7 +10,7 @@
 }
 
 
-.h3 {
+.container h3 {
   color: #336699; /* Sets the text color to a shade of blue */
   font-family: 'Arial', sans-serif; /* Specifies the font family */
   font-size: 1.2em; /* Sets the font size relative to the parent element's font size */
